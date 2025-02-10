@@ -1,9 +1,11 @@
 # Item-Sales-Summary-Report
+
 I developed a comprehensive project in Excel and PowerBI, creating multiple dashboards and tables to analyze the data. This process involved several stages, including data preprocessing, data cleaning, and data visualization.  
 
 # Item-Sales-Summary-Report (Interactive Report Creation using Excel & PowerBI)
 
 ## Project Objective:
+
 Business Requests:
 
 1- Comprehensive Sales Analysis:
@@ -67,57 +69,70 @@ Business Requests:
 - Identify opportunities for improvement in underperforming regions or product categories.
   
 ## Dataset Used:
-  <a href="https://github.com/DoniaAl-badawi23/Sales-Performance-Dashboard">Dataset</a>
+  <a href="https://github.com/DoniaAl-badawi23/Item-Sales-Summary-Report">Dataset</a>
 
 ## Business Requirements (KPIs):
 
-### Sales Overview Dashboard
- 1- Overall Metrics:
- - Total Sales
- - Total Budget
- - Total Customers
- - Total Products
-   
- 2- Sales by Product Category
- 
- 3- Top 10 Customers by Sales
- 
- 4- Top 10 Products by Sales
- 
- 5- Sales and Budget Trends by Month
- 
- 6- Sales by Customer City
-   
-### Customer Details Dashboard
- 1- Overall Metrics:
- - Total Customers
- - Total Sales
- - Total Budget
- - Total Products
-   
- 2- Sales by Product Category
-   
- 3- Sales by Customer City
- 
- 4- Top 10 Customer by Sales
- 
- 5- Details Table about Customers
-   
-### Product Details Dashboard:
- 1- Overall Metrics:
- - Total Products
- - Total Sales
- - Total Budget
- - Total Customers
-   
- 2- Sales and Budget Trends by Month
-   
- 3- Sales by Customer City
- 
- 4- Top 10 Product by Sales
- 
- 5- Details Table about products
+### Sales Performance KPIs:
 
+- Total Sales 
+
+- Sales by State/City
+
+- Sales Growth YoY
+
+- Top-Selling Products
+
+   
+### Quantity and Product KPIs
+
+- Total Quantity Sold
+  
+- Top Products by Quantity
+
+- Quantity Breakdown by Package Type
+
+### Profitability KPIs
+
+- Total Profit
+
+- Profit Margin
+
+- Profit by State/City
+
+- Profitability by Product
+   
+### Cost Analysis KPIs
+
+- Cost of Goods Sold (COGS)
+
+- COGS by State/City
+
+- COGS vs Sales Ratio
+
+### Trend and Historical KPIs
+
+- YoY Trends for Sales and Profit
+
+- State/City Performance Over Time
+ 
+### Regional KPIs
+
+- Sales Concentration
+  
+- Underperforming Regions
+  
+### Customer and Employee KPIs
+
+- Sales per Employee
+  
+- Sales per Customer Group
+
+### Inventory/Product KPIs
+
+- Stock Performance
+  
+- Product Diversity
 
 ## Dashboard Interaction:
   <a href="https://github.com/DoniaAl-badawi23/Sales-Performance-Dashboard/blob/main/SalesReport.pbix">View Dashboard</a>
