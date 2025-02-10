@@ -135,15 +135,17 @@ Business Requests:
 - Product Diversity
 
 ## Dashboard Interaction:
-  <a href="https://github.com/DoniaAl-badawi23/Sales-Performance-Dashboard/blob/main/SalesReport.pbix">View Dashboard</a>
+
+  <a href="https://github.com/DoniaAl-badawi23/Item-Sales-Summary-Report/blob/main/Item%20Sales%20Report.pbix">View Dashboard</a>
 
 ## Process:
-  - 1- Collecting a Data from Different Sources (Excel & SQL).
-  - 2- Cleaning and Preprocessing Data in SQL & Power Query Editor in PowerBI.
-  - 3- Data Modeling For Data in Model View in PowerBI.
-  - 4- Calculation Data by Using Measures and Calculated Columns by Using DAX Language in PowerBI.
-  - 5- Wireframe Creation to Design Dashboard.
-  - 6- Creation a Dashboards in PowerBI.
+
+  - Collecting a Data from Different Sources.
+  - Cleaning and Preprocessing Data in Excel & Power Query Editor in PowerBI.
+  - Data Modeling For Data in Model View in PowerBI.
+  - Calculation Data by Using Measures and Calculated Columns by Using DAX Language in PowerBI.
+  - Wireframe Creation to Design Dashboard.
+  - Creation a Report in PowerBI.
   
   ## Dashboard
  - <a href="https://github.com/DoniaAl-badawi23/Sales-Performance-Dashboard/tree/main">View Dashboard</a>
