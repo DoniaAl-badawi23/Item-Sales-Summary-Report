@@ -265,4 +265,4 @@ Business Requests:
 
 7- Strengthen margins by focusing on profitable products and regions.
 
-Enhance the skills and performance of the sales team.
+8- Enhance the skills and performance of the sales team.
